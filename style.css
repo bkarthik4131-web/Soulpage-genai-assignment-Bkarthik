@@ -1,0 +1,20 @@
+body {
+    background-color: #f6f8fa;
+}
+
+h1 {
+    color: #0f172a;
+}
+
+.stButton > button {
+    background-color: #2563eb;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+.stMetric {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}
